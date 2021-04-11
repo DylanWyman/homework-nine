@@ -1,0 +1,25 @@
+.foot {
+  display: flex;
+  justify-content: center;
+  footer {
+    display: flex;
+    flex-direction: column;
+    width: 1075px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 25px;
+    color: white;
+    .location {
+      display: flex;
+      justify-content: space-evenly;
+    }
+    .contact {
+      display: flex;
+      justify-content: space-evenly;
+    }
+    .right {
+      display: flex;
+      justify-content: space-evenly;
+    }
+  }
+}

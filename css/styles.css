@@ -1,0 +1,278 @@
+.home-frame {
+  background-color: mediumpurple;
+  max-width: 1000px;
+  min-height: 200px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 2%;
+}
+.home-frame .inner-frame {
+  max-width: 100%;
+}
+.home-frame .inner-frame .paragraph {
+  padding-left: 2%;
+  padding-right: 2%;
+  max-width: 480px;
+  height: 250px;
+}
+.home-frame .inner-frame .image1 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/giant-angel-3840x2160-city-6k-18666.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.home-frame .inner-frame .image2 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/wp4179996.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.home-frame .inner-frame .image3 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/gEeLrt.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+
+.about-frame {
+  background-color: violet;
+  max-width: 1000px;
+  min-height: 200px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 2%;
+}
+.about-frame .inner-frame {
+  max-width: 100%;
+}
+.about-frame .inner-frame .paragraph {
+  padding-left: 2%;
+  padding-right: 2%;
+  max-width: 480px;
+  height: 250px;
+}
+.about-frame .inner-frame .image1 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/wp3910895.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.about-frame .inner-frame .image2 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/wp6426213.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.about-frame .inner-frame .image3 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/a1eSv.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+
+.products-frame {
+  background-color: indianred;
+  max-width: 1000px;
+  min-height: 200px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 2%;
+}
+.products-frame .inner-frame {
+  max-width: 100%;
+}
+.products-frame .inner-frame .paragraph {
+  padding-left: 2%;
+  padding-right: 2%;
+  max-width: 480px;
+  height: 250px;
+}
+.products-frame .inner-frame .image1 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/533992.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.products-frame .inner-frame .image2 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/374861.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.products-frame .inner-frame .image3 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/thumb-1920-564835.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+
+.contact-frame {
+  background-color: aquamarine;
+  max-width: 1000px;
+  min-height: 200px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 2%;
+}
+.contact-frame .inner-frame {
+  max-width: 100%;
+}
+.contact-frame .inner-frame .paragraph {
+  padding-left: 2%;
+  padding-right: 2%;
+  max-width: 480px;
+  height: 250px;
+}
+.contact-frame .inner-frame .image1 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/qDlBcR9.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.contact-frame .inner-frame .image2 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/173-1738042_pirate-ship-wallpaper-hd.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+.contact-frame .inner-frame .image3 {
+  width: 480px;
+  height: 250px;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../images/background/kllibqiy39c51.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+}
+.page .frame {
+  display: flex;
+  justify-content: center;
+}
+.page .frame .hero {
+  width: 1075px;
+  min-height: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/background/767944fc4ad92be46460adb860d91c7b.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+}
+.page .frame .hero nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.page .frame .hero nav a {
+  margin-top: 20px;
+  margin-right: 5%;
+  margin-left: 5%;
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  font-family: Trebuchet MS;
+}
+
+.foot {
+  display: flex;
+  justify-content: center;
+}
+.foot footer {
+  display: flex;
+  flex-direction: column;
+  width: 1075px;
+  height: 150px;
+  background-color: gray;
+  border-radius: 25px;
+  color: white;
+}
+.foot footer .location {
+  display: flex;
+  justify-content: space-evenly;
+}
+.foot footer .contact {
+  display: flex;
+  justify-content: space-evenly;
+}
+.foot footer .right {
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,39 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  .frame {
+    display: flex;
+    justify-content: center;
+    .hero {
+      width: 1075px;
+      min-height: 400px;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(../images/background/767944fc4ad92be46460adb860d91c7b.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      position: relative;
+      border-radius: 25px;
+
+      display: flex;
+      justify-content: center;
+
+      nav {
+        width: 100%;
+
+        display: flex;
+        justify-content: space-evenly;
+        a {
+          margin-top: 20px;
+          margin-right: 5%;
+          margin-left: 5%;
+          text-decoration: none;
+          color: white;
+        }
+      }
+    }
+  }
+}
+a {
+  font-family: Trebuchet MS;
+}

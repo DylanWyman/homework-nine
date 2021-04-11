@@ -1,0 +1,18 @@
+.page .frame {
+  max-width: 1000px;
+  min-height: 500px;
+  background-color: indigo;
+  display: flex;
+  justify-content: center;
+}
+.page .frame .hero {
+  height: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/background/533992.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.page .frame .nav a {
+  text-decoration: none;
+}

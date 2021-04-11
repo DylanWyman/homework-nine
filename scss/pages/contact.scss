@@ -1,0 +1,53 @@
+.contact-frame {
+  background-color: aquamarine;
+  max-width: 1000px;
+  min-height: 200px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 2%;
+  .inner-frame {
+    max-width: 100%;
+    .paragraph {
+      padding-left: 2%;
+      padding-right: 2%;
+      max-width: 480px;
+      height: 250px;
+    }
+    .image1 {
+      width: 480px;
+      height: 250px;
+      border-radius: 25px;
+      margin: 0 auto;
+      background-image: url(../images/background/qDlBcR9.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      padding-top: 20px;
+    }
+    .image2 {
+      width: 480px;
+      height: 250px;
+      border-radius: 25px;
+      margin: 0 auto;
+      background-image: url(../images/background/173-1738042_pirate-ship-wallpaper-hd.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      padding-top: 20px;
+    }
+    .image3 {
+      width: 480px;
+      height: 250px;
+      border-radius: 25px;
+      margin: 0 auto;
+      background-image: url(../images/background/kllibqiy39c51.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      padding-top: 20px;
+    }
+  }
+}

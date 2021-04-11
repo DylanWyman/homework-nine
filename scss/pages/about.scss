@@ -1,0 +1,53 @@
+.about-frame {
+  background-color: violet;
+  max-width: 1000px;
+  min-height: 200px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  border-radius: 25px;
+  margin: 20px auto;
+  padding: 2%;
+  .inner-frame {
+    max-width: 100%;
+    .paragraph {
+      padding-left: 2%;
+      padding-right: 2%;
+      max-width: 480px;
+      height: 250px;
+    }
+    .image1 {
+      width: 480px;
+      height: 250px;
+      border-radius: 25px;
+      margin: 0 auto;
+      background-image: url(../images/background/wp3910895.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      padding-top: 20px;
+    }
+    .image2 {
+      width: 480px;
+      height: 250px;
+      border-radius: 25px;
+      margin: 0 auto;
+      background-image: url(../images/background/wp6426213.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      padding-top: 20px;
+    }
+    .image3 {
+      width: 480px;
+      height: 250px;
+      border-radius: 25px;
+      margin: 0 auto;
+      background-image: url(../images/background/a1eSv.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      padding-top: 20px;
+    }
+  }
+}
